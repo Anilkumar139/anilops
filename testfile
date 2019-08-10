@@ -1,5 +1,4 @@
-vi demo 
-public class AddTwoNumbers {
+ public class AddTwoNumbers {
 
    public static void main(String[] args) {
         
@@ -9,7 +8,6 @@ public class AddTwoNumbers {
       System.out.println("Sum of these numbers: "+sum);
    }
 }
-vi demo
 public class Demo {
 
     public static void main(String[] args) {
@@ -22,6 +20,7 @@ public class Demo {
 
        System.out.println("Sum of first 10 natural numbers is: "+total);
     }
+}
 public class AddTwoNumbers {
 
    public static void main(String[] args) {
@@ -44,4 +43,4 @@ public class Demo {
 
        System.out.println("Sum of first 20 natural numbers is: "+total);
     }
-
+}
